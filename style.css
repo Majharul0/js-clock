@@ -99,11 +99,8 @@
     }
     @media screen  and (max-width:356px) {
       html{
-        font-size: 7px;
+        font-size: 8px;
       }
     }
-    @media screen  and (max-width:344px) {
-      html{
-        font-size: 6px;
-      }
+   
     }
